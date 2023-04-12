@@ -11,7 +11,7 @@
  * scopes 'bot' and 'applications.commands', e.g.
  * https://discord.com/oauth2/authorize?client_id=940762342495518720&scope=bot+applications.commands&permissions=139586816064
  */
-const std::string    BOT_TOKEN = "OTg0MjAwNTQxNzEyMzEwMzEy.GwifHH.Ba0VzOiCRcWeClZTXJVWwnNykM9eP0KCjDkC0Q";
+const std::string    BOT_TOKEN = "notApplicable";
 
 std::vector< std::vector<std::string> > words = WordManager::loadWords("words.dat");
 std::vector< std::string > formats = WordManager::loadFormats("sentenceFormats.dat");
